@@ -8,7 +8,7 @@ from database import add_user, add_group, get_stat, add_channel, del_channel, cl
 
 logging.basicConfig(level=logging.INFO)
 
-TOKEN = ''
+TOKEN = '6774947908:AAG8W3V4g1SiIvgHwdTVE3tEiHmOawEsjqQ'
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
