@@ -1,0 +1,1 @@
+# majburiy-azo-bot
